@@ -1,0 +1,17 @@
+#app > #logo > a {
+  display: grid;
+  place-items: center;
+}
+
+#app > #logo > a > img {
+  width: 7rem;
+  height: auto;
+}
+
+#app > #logo > h1 {
+  font-size: var(--tt-title);
+  font-weight: 700;
+  color: var(--cc-primary-light);
+
+  margin-top: -0.5rem;
+}

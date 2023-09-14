@@ -1,0 +1,21 @@
+#resume {
+  margin-top: 6.4rem;
+  text-align: left;
+}
+
+#resume > h2 {
+  font-size: var(--tt-heading);
+  font-weight: bold;
+}
+
+#resume > p {
+  font-size: var(--tt-paragraph);
+}
+
+#resume > .placeholder {
+  user-select: none;
+
+  font-style: italic;
+  font-weight: normal;
+  color: var(--cc-text-secondary);
+}

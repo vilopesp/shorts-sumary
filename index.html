@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="logo.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Shorts Sumary</title>
+
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <script type="module" src="web/main.js" defer></script>
+  </head>
+
+  <body>
+    <div id="app">
+      <div id="logo">
+        <a href="#"><img src="/logo.svg" alt="Logo" /></a>
+        <h1>Shorts Summary</h1>
+      </div>
+
+      <div id="input-link">
+        <form id="form" action="">
+          <input type="url" id="url" placeholder="URL do vídeo" />
+
+          <button id="form-button">
+            <p class="sr-only">Próximo</p>
+            <i class="ph ph-play"></i>
+          </button>
+        </form>
+      </div>
+
+      <div id="resume">
+        <h2>Resumo</h2>
+        <p id="resume-description" class="placeholder">
+          O resumo está sendo gerado. Aguarde...
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

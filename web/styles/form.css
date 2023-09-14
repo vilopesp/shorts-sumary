@@ -1,0 +1,51 @@
+#form {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+
+  margin-top: 6.4rem;
+}
+
+#form > input {
+  background-color: var(--cc-input-surface);
+  font-size: var(--tt-input-text);
+  color: var(--cc-text-secondary);
+
+  min-width: 45.2rem;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+
+  text-decoration: none;
+  border: none;
+  transition: background 0.5s ease;
+}
+
+#form > input:hover {
+  background: var(--cc-input-surface-hover);
+}
+
+#form > input:focus {
+  outline: 1px solid var(--cc-primary-outline);
+}
+
+#form > button {
+  background: var(--cc-primary-mid);
+
+  height: 4.8rem;
+  width: 4.8rem;
+
+  border: none;
+  border-radius: 0.5rem;
+
+  cursor: pointer;
+  transition: background 0.5s ease;
+}
+
+#form > button > i.ph-play {
+  font-size: 2.2rem;
+  margin-right: 0.3rem;
+}
+
+#form > button:hover {
+  background: var(--cc-primary-light);
+}
