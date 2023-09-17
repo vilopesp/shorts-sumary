@@ -1,6 +1,8 @@
 #resume {
   margin-top: 6.4rem;
   text-align: left;
+  max-width: 55rem;
+  line-height: 2.5rem;
 }
 
 #resume > h2 {
