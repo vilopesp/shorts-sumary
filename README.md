@@ -109,4 +109,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/luke
 
 ---
 
-Developed by Vitória Lopes :wave: [Entre em contato!](https://www.linkedin.com/in/vilopesp/)
+Developed by Vitória Lopes :wave: [Contact me!](https://www.linkedin.com/in/vilopesp/)
