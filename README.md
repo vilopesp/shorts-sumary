@@ -20,7 +20,7 @@
  • <a href="#wrench-technologies">Technologies</a>  
  • <a href="#computer-dependencies">Dependencies</a>  
  • <a href="#rocket-how-to-run">Installation</a>
- • <a href="#pencil-license">Licence</a> 
+ • <a href="#pencil-license">License</a> 
  • <a href="#wave-author">Author</a>
 </p>
 
